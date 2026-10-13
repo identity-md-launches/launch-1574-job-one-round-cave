@@ -1,0 +1,20 @@
+{
+  "schema": "call-rehearsal-v1",
+  "source": "https://ethereum-rpc.publicnode.com",
+  "chain_id": 1,
+  "block": {
+    "number": "0x18f88c5",
+    "hash": "0xd01fdd4353723ef9fa5fa2c2b7ffa4bb4048a74bea2dbff2d27b645e5f5de6c2",
+    "timestamp": "0x6ace3257"
+  },
+  "call": {
+    "to": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
+    "data": "0x18160ddd",
+    "value": "0x0"
+  },
+  "returns": "uint256",
+  "code_present": true,
+  "outcome": {
+    "result": "0x000000000000000000000000000000000000000000037404bb132c68ebb70000"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The Step Before the Step",
+  "image": "https://api.imd.fun/artifacts/cc122bbdbe73d34b0c096d01ac831203103ac19874f716813c3bfee0e38ecc97",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Call Rehearsal"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe rehearses a path around a pit before taking the first step."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Rehearse Ethereum contract calls before submission"
+    }
+  ]
+}
