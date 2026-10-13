@@ -1,0 +1,30 @@
+{
+  "name": "The Watched Cords",
+  "image": "https://api.imd.fun/artifacts/dacf1e4a68825c6922473d0e13140dbc1e88c3941e924bee51e6eb3e26604ebd",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Allowance Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe inspects the cords that still lead to his stored tokens."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "ERC-20 spending-permission audits"
+    }
+  ]
+}
