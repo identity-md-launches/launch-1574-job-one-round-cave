@@ -1,0 +1,30 @@
+{
+  "name": "The Stone Within",
+  "image": "https://api.imd.fun/artifacts/94b456d3a3d1c83711e3771640203cc6ba04a425f27bba7341e9be9dbc0c38b9",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Code Lens"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe follows a hollow stone to the matching stone within."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Ethereum executable code identity"
+    }
+  ]
+}
