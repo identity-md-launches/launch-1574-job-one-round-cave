@@ -1,0 +1,30 @@
+{
+  "name": "The Measured Pool",
+  "image": "https://api.imd.fun/artifacts/001f38049f5c4a019a0cf38233bbebe9b5aa94f663819d3bd664137e2c931759",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "ZTO Band"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe measures the pool between two stones before taking a step."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "ZTO/IMD swap bounds"
+    }
+  ]
+}
