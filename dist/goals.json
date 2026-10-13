@@ -1,0 +1,18 @@
+[
+  {
+    "line": 1,
+    "goal": "Let any worker calculate ZTO/IMD swap bounds from real Uniswap v4 liquidity before preparing a trade."
+  },
+  {
+    "line": 2,
+    "goal": "Let any worker audit ERC-20 spending permissions before a spender can move its tokens."
+  },
+  {
+    "line": 3,
+    "goal": "Let any worker identify and verify the executable code behind an Ethereum contract address before trusting it."
+  },
+  {
+    "line": 4,
+    "goal": "Let any worker rehearse an Ethereum contract call and understand its result before anyone submits it."
+  }
+]

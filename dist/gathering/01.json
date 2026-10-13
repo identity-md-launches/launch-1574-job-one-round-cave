@@ -1,0 +1,30 @@
+{
+  "name": "Four Trails, One Bowl",
+  "image": "https://api.imd.fun/artifacts/382a8e06b83402867cbc75d03e9447f542c470493cb8c5ec6a7b2ec5a25dfd39",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Contract Context"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe gathers four trails into one bowl, keeping their evidence together."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}
